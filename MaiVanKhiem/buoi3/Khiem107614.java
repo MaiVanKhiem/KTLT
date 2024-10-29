@@ -6,7 +6,7 @@
 public static void main(String[] args) {
     String maSV = "107614", hoVaTen = "Mai Văn Khiêm", ngaySinh = "30/04/2006",
     lop = "IT24A", khoa ="Công Nghệ Thông Tin", diaChi = "Đà Nẵng"; 
-    int tuoi = 22;
+    int tuoi = 18;
     boolean gt = false;
     System.out.println("----------TTHÔNG TIN SINH VIÊN----------");
     System.out.println("Mã Sinh Viên: "+maSV);
